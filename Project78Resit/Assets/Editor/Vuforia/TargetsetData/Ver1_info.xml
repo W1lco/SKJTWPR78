@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 15:05:54" name="ganglinksnieuw2" targetId="d687dd22e491467c8d14415d093148e0" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 16:39:52" name="midrechtslinks" targetId="aeb919da2cc54cf5926d0ebdc542cab9" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 16:44:38" name="midlinksrechts" targetId="14af9fda4d644af9973925d841bae7fe" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 16:37:32" name="ingangrechterkant" targetId="8298b84c6ebb4b46939d0685e415708a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 15:57:47" name="WCdes" targetId="7109d1c6ee0c4660aa3210f36335fec3" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 13:37:56" name="vlakbijdeurlinks" targetId="8101f270fb9c4af5b696cf4a8d569085" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 12:52:54" name="vanlinksnaarrechts" targetId="306494625d1847428ef226d038fe5f0b" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 12:58:39" name="linkerdeur2" targetId="71d3915cf53e4c47a2a1ca75ecd58db6" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 13:21:02" name="deurrechtslinkerkant" targetId="af42691f05f447aebce74eadcb5187f3" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:49:41" name="trappenhuisrechts" targetId="d0c6ba897f824789953b92193ffb73c7" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:47:13" name="trappenhuislinks" targetId="4e49633954cb4cc3a89c1649eb85145e" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 12:00:42" name="trappenhuisgangrechts" targetId="de0dae515bca437b95e1a8269ee28de9" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:37:08" name="tafelproject" targetId="ecda0244b39c42399ab6e90deafa78c0" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:57:46" name="naartrappenhuisrechts" targetId="3af50345845849818b8fba8a8db5ce9c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 14:52:21" name="naargangrechts" targetId="016317399c4f4208a6e097f98577fd43" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:42:26" name="middenkamer" targetId="a1181a95f6d64722b579aad3aa82d181" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 14:47:38" name="linkerdeur" targetId="3f842da378d44705a5f912fb25a94dcd" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:39:14" name="deurtrappenhuislinks" targetId="653ca79ec75a441f94e838bb9443721d" version="2.0" />
+  </TargetSet>
+</QCARInfo>

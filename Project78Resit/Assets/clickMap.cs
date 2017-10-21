@@ -15,6 +15,7 @@ public class clickMap : MonoBehaviour {
 		
 	}
 
+
     private void OnMouseDown()
     {
         SceneManager.LoadScene("Map");

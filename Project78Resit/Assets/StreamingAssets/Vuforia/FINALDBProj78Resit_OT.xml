@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="naargangrechts" />
+    <ObjectTarget name="trappenhuisrechts" />
+    <ObjectTarget name="trappenhuislinks" />
+    <ObjectTarget name="trappenhuisgangrechts" />
+    <ObjectTarget name="tafelproject" />
+    <ObjectTarget name="naartrappenhuisrechts" />
+    <ObjectTarget name="middenkamer" />
+    <ObjectTarget name="deurtrappenhuislinks" />
+  </Tracking>
+</QCARConfig>

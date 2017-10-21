@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-18 14:52:21" name="naargangrechts" targetId="7cc2a66db4654ff6924c563a9399a6c1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:49:41" name="trappenhuisrechts" targetId="ea46d6c9c9df41be900c927372f8b061" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:47:13" name="trappenhuislinks" targetId="15dbbd753e1b4cc895713058100ee49f" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 12:00:42" name="trappenhuisgangrechts" targetId="301b5507c81b4eeb972123525c4e2058" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:37:08" name="tafelproject" targetId="bfdaf68f54e842d69fac0b2d5bc378bb" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:57:46" name="naartrappenhuisrechts" targetId="31fb878837664130b8fd0363cecfee79" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:42:26" name="middenkamer" targetId="c3423ea2480f45e3b470563115f2366f" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-10-19 11:39:14" name="deurtrappenhuislinks" targetId="0cc913881ba845f5bfdb9692cde271b5" version="2.0" />
+  </TargetSet>
+</QCARInfo>
